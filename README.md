@@ -87,10 +87,10 @@ Requeriments:
 ##### 1. Install adam using pip
 
 ```bash
-pip install nateve-adam
+pip install nateve
 ```
 
-Installing adam using pip alows you to invoke Adam with the command `adam`.
+Installing Nateve using pip alows you to invoke Adam with the command `adam`.
 
 ##### 2. Add your favorite templates (optional)
 
