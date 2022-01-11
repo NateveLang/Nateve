@@ -1,17 +1,17 @@
 Metadata-Version: 2.1
 Name: nateve
-Version: 0.0.1a0
+Version: 0.0.1a1
 Summary: Nateve Programming Language
 Home-page: https://github.com/NateveLang/Nateve
 Author: Emmanuel Norambuena
 Author-email: eanorambuena@uc.cl
 License: MIT
-Download-URL: https://github.com/NateveLang/Nateve/archive/v0.0.1a0.tar.gz
+Download-URL: https://github.com/NateveLang/Nateve/archive/v0.0.1a1.tar.gz
 Project-URL: Bug Reports, https://github.com/NateveLang/Nateve/issues
 Project-URL: Source, https://github.com/NateveLang/Nateve
 Keywords: development,quantum computing,programming language,nateve,natevelang,nate,education
 Platform: UNKNOWN
-Classifier: Development Status :: 5 - Production/Stable
+Classifier: Development Status :: 3 - Alpha
 Classifier: Intended Audience :: Developers
 Classifier: Topic :: Software Development :: Build Tools
 Classifier: License :: OSI Approved :: MIT License
@@ -112,10 +112,10 @@ Requeriments:
 ##### 1. Install adam using pip
 
 ```bash
-pip install nateve-adam
+pip install nateve
 ```
 
-Installing adam using pip alows you to invoke Adam with the command `adam`.
+Installing Nateve using pip alows you to invoke Adam with the command `adam`.
 
 ##### 2. Add your favorite templates (optional)
 
